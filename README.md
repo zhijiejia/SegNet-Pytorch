@@ -1,8 +1,11 @@
 # SegNet-Pytorch
-Using pytoch to implement segnet And Visualizing by tensorboard
 
-Pytorch Version : 1.7.0+cu101
-tensorboardX
+1. Using pytoch to implement segnet
 
-DataSet: Camvid
-DataSet Download URL : https://s3.amazonaws.com/fast-ai-imagelocal/camvid.tgz
+2. Visualizing by tensorboard
+
+3. Pytorch Version : 1.7.0+cu101
+
+4. DataSet: Camvid
+
+5. DataSet Download URL : https://s3.amazonaws.com/fast-ai-imagelocal/camvid.tgz
