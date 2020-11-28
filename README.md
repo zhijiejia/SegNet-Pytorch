@@ -9,3 +9,5 @@
 4. DataSet: Camvid
 
 5. DataSet Download URL : https://s3.amazonaws.com/fast-ai-imagelocal/camvid.tgz
+
+![Train Result]()
